@@ -3,10 +3,9 @@ layout: page
 title: About me
 ---
 
-My name is Ricardo Gomes (aka organom)
-I love technology, researching, making prototypes and sharing ideas.
+My name is Ricardo Gomes (aka organom).
 
-I characterize myself as being friendly, passionate, spontaneous, dynamic, organized and a hardworking person that always strives for excellence.
+I love technology, researching, making prototypes and sharing ideas. I characterize myself as being friendly, passionate, spontaneous, dynamic, organized and a hardworking person that always strives for excellence.
 
 Creating something new, specially if it can help someone, is my main motivation.
 

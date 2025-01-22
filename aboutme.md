@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-cover-img: /assets/img/banner.jpg
 ---
 
 My name is Ricardo Gomes (aka organom)

@@ -13,4 +13,4 @@ On my free time I enjoy building things (DIY), researching into new technologies
 
 Joining hackathons & maker/DIY events is also something I enjoy doing from time to time
 
-I keep track of my personal achievements in this page and my professional ones in [LinkedIn](https://www.linkedin.com/in/ricardocarneirogomes/).
+I keep track of my personal achievements in this page and my professional ones in LinkedIn.

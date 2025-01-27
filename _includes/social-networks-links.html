@@ -395,6 +395,51 @@
   </li>
   {%- endif -%}
 
+  {%- if network[0] == "makerworld" -%}
+  <li class="list-inline-item">
+    <a href="https://makerworld.com/en/@{{ network[1] }}" title="Makerworld">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-makerworld fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Makerworld</span>
+    </a>
+  </li>
+  {%- endif -%}
+  {%- if network[0] == "makeronline" -%}
+  <li class="list-inline-item">
+    <a href="https://www.makeronline.com/en/user/{{ network[1] }}" title="Makeronline">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-makeronline fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Makeronline</span>
+    </a>
+  </li>
+  {%- endif -%}
+  {%- if network[0] == "thingiverse" -%}
+  <li class="list-inline-item">
+    <a href="https://www.thingiverse.com/{{ network[1] }}" title="Thingiverse">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-thingiverse fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Thingiverse</span>
+    </a>
+  </li>
+  {%- endif -%}
+  {%- if network[0] == "printables" -%}
+  <li class="list-inline-item">
+    <a href="https://www.printables.com/@{{ network[1] }}" title="Printables">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-printables fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Printables</span>
+    </a>
+  </li>
+  {%- endif -%}
+
 {%- endfor -%}
 
 </ul>

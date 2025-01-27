@@ -51,14 +51,14 @@ social-network-links:
 #  facebook: deanattali
   github: organom
 #  patreon: DeanAttali
-  youtube: "@organom"
 #  whatsapp: 15551212
 #  medium: yourname
   reddit: organom_1
+  stackoverflow: "6404094/organom"
+  youtube: "@organom"
   twitter: organom
   linkedin: ricardocarneirogomes
 #  xing: yourname
-  stackoverflow: "6404094/organom"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
@@ -82,6 +82,7 @@ social-network-links:
   thingiverse: organom
   makeronline: organom_5273934
   printables: organom_2360641
+  thinkercad: fc61VtidQTD
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml

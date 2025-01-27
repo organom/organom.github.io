@@ -50,12 +50,12 @@ social-network-links:
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
   github: organom
-  twitter: organom
 #  patreon: DeanAttali
   youtube: "@organom"
 #  whatsapp: 15551212
 #  medium: yourname
   reddit: organom_1
+  twitter: organom
   linkedin: ricardocarneirogomes
 #  xing: yourname
   stackoverflow: "6404094/organom"
@@ -78,6 +78,10 @@ social-network-links:
 #  gitlab: yourname
 #  itchio: yourname
   untappd: organom
+  makerworld: organom
+  thingiverse: organom
+  makeronline: organom_5273934
+  printables: organom_2360641
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml

@@ -2,5 +2,7 @@
 
 source "https://rubygems.org"
 
+gem 'jekyll-regex-replace'
+
 gemspec
 

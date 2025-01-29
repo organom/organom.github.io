@@ -11,11 +11,12 @@
         {% if file.path contains include.folder %}
             {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
                 {% assign filenameparts = file.path | split: "/" %}
-                {% assign filename = filenameparts | last | replace: file.extname,"" | replace: "_"," " | regex_replace: '^[0-9]*-*','' %}
+                {% assign filename = filenameparts | last | replace: file.extname,"" %}
+                {% assign desc = filename | replace: "_"," " | regex_replace: '^[0-9]*-*', ''%}
                 <li style="font-size: 0.875rem">
-                    <a href="{{ file.path | relative_url }}" title="{{ filename }}">
-                        <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" />
-                        <span>{{ filename }}</span>
+                    <a href="{{ file.path | relative_url }}">
+                        <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ desc }}" title="{{ desc }}" />
+                        <span>{{ desc }}</span>
                     </a>
                 </li>
             {% endif %}

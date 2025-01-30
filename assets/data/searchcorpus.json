@@ -4,8 +4,8 @@ layout: null
 [
 {% for post in site.posts %}
 {
-"title"    : "[{{ post.date | date: "%B %e, %Y" | default: "January 1, 1970" }}] {% if post.title != "" %}{{ post.title | strip_html | escape }}{% if post.subtitle %} - {{ post.subtitle | strip_html | escape }}{% endif %}{% else %}{{ post.excerpt | strip_html | escape | strip }}{%endif%}",
-"desc"     : "{{ post.excerpt | strip_html | escape | strip }}",
+"title"    : "{{ post.date | date: "%B %e, %Y" | default: "January 1, 1970" }} : {% if post.title != "" %}{{ post.title | strip_html | escape }}{% if post.subtitle %} - {{ post.subtitle | strip_html | escape }}{% endif %}{% else %}{{ post.excerpt | strip_html | escape | strip }}{%endif%}",
+"desc"     : "{{ post.date | date: "%B %e, %Y" | default: "January 1, 1970" }} : {% if post.title != "" %}{{ post.title | strip_html | escape }}{% if post.subtitle %} - {{ post.subtitle | strip_html | escape }}{% endif %}{% else %}{{ post.excerpt | strip_html | escape | strip }}{%endif%}",
 "category" : "{{ post.tags | join: ', ' }}",
 "url"      : "{{ site.baseurl }}{{ post.url | escape }}",
 "date"     : "{{ post.date | date: "%B %e, %Y" | default: "January 1, 1970" }}"
@@ -13,8 +13,8 @@ layout: null
 {% endfor %}
 {% for page in site.html_pages %}{% if page.title != "{title}" and page.title != "404 - Page not found" %}
 {
-"title"    : "[{{ page.date | date: '%B %e, %Y' | default: "January 1, 1970" }}] {% if page.title != "" %}{{ page.title | strip_html | escape }}{% if page.subtitle %} - {{ page.subtitle | strip_html | escape }}{% endif %}{% else %}{{ page.excerpt | strip_html | escape | strip }}{% endif %}",
-"desc"     : "{{ page.excerpt | strip_html | escape | strip }}",
+"title"    : "{{ page.date | date: '%B %e, %Y' | default: "January 1, 1970" }} : {% if page.title != "" %}{{ page.title | strip_html | escape }}{% if page.subtitle %} - {{ page.subtitle | strip_html | escape }}{% endif %}{% else %}{{ page.excerpt | strip_html | escape | strip }}{% endif %}",
+"desc"     : "{{ page.date | date: '%B %e, %Y' | default: "January 1, 1970" }} : {% if page.title != "" %}{{ page.title | strip_html | escape }}{% if page.subtitle %} - {{ page.subtitle | strip_html | escape }}{% endif %}{% else %}{{ page.excerpt | strip_html | escape | strip }}{% endif %}",
 "category" : "{% if page.tags %}{{ page.tags | join: ', ' }}{% else %}page{% endif %}",
 "url"      : "{{ site.baseurl }}{{ page.url }}",
 "date"     : "{{ page.date | date: '%B %e, %Y' | default: "January 1, 1970" }}"

@@ -10,6 +10,7 @@ thumbnail-img: /assets/posts/2022-02-12-night-table-lamps/03.jpg
 share-img: /assets/posts/2022-02-12-night-table-lamps/03.jpg
 ---
 
-Last week was time to paint white my bed lamps in order to try to avoid that mold forms on the untreated wood. Need to create myself a kind of closed painting station for this things
+Last week, I decided to paint my bed lamps white to prevent mold from forming on the untreated wood. 
+I’ve realized that I need to create some kind of enclosed space for projects like this, something to keep the process clean and controlled.
 
 {% include image-gallery.html folder="/assets/posts/2022-02-12-night-table-lamps" %}

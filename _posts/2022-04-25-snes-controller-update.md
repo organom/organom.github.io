@@ -1,0 +1,17 @@
+---
+layout: post
+title: snes controller
+subtitle: update
+date: '2022-04-25T01:01:01+01:00'
+tags:
+- '2022'
+- electronics
+- raspberry pi
+- hardware
+thumbnail-img: /assets/posts/2022-04-25-snes-controller-update/01.jpg
+share-img: /assets/posts/2022-04-25-snes-controller-update/01.jpg
+---
+
+Felt nostalgic and decided to take my RetroPie SNES controller for a spin. It was shelved for so long that RetroPie couldn't update anymore. Had to open it, reflash the SD with the newer version and reconfigure everything. Gladly nothing broke in the process :)
+
+{% include image-gallery.html folder="/assets/posts/2022-04-25-snes-controller-update" %}

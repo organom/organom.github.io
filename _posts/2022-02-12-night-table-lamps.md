@@ -1,0 +1,15 @@
+---
+layout: post
+title: night table lamps
+date: '2022-02-12T01:01:01+01:00'
+tags:
+- '2022'
+- random
+- home
+thumbnail-img: /assets/posts/2022-02-12-night-table-lamps/03.jpg
+share-img: /assets/posts/2022-02-12-night-table-lamps/03.jpg
+---
+
+Last week was time to paint white my bed lamps in order to try to avoid that mold forms on the untreated wood. Need to create myself a kind of closed painting station for this things
+
+{% include image-gallery.html folder="/assets/posts/2022-02-12-night-table-lamps" %}

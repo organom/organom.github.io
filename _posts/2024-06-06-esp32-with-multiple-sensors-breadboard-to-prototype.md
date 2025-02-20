@@ -33,7 +33,8 @@ It also gave me the perfect excuse to upgrade my tools:
 * Oscilloscope – Rigol DHO804 → compact, solid build quality, four channel inputs, and runs Android! (I’ve already added Wi-Fi to it 😃)
 * Multimeter – Uni-T UT890C → Great build quality, useful features, and an excellent price point
 
-While I already had a multimeter, this new one is a significant upgrade. And finally getting an oscilloscope, something I had been missing for a long time, has opened up a whole new world of learning. Now, I’m diving into mastering both tools.
+
+Finally getting an oscilloscope has opened up a whole new world of learning. Now, I’m diving into mastering it.
 
 {% include image-gallery.html folder="/assets/posts/2024-06-06-esp32-with-multiple-sensors-breadboard-to-prototype" %}
 

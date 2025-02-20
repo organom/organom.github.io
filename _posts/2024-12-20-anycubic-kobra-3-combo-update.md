@@ -5,7 +5,7 @@ subtitle: update
 tags:
 - '2024'
 - 3d printer
-cover-img: /assets/posts/2024-12-20-anycubic-kobra-3-combo-update/01/01.jpg
+cover-img: /assets/posts/2024-12-20-anycubic-kobra-3-combo-update/01/02.jpg
 thumbnail-img: /assets/posts/2024-12-20-anycubic-kobra-3-combo-update/01/01.jpg
 share-img: /assets/posts/2024-12-20-anycubic-kobra-3-combo-update/01/01.jpg
 ---

@@ -5,6 +5,7 @@ subtitle: second printer
 tags:
 - '2025'
 - 3d printer
+cover-img: /assets/posts/2025-01-09-bambulab-p1s-combo-second-printer/02.jpg
 thumbnail-img: /assets/posts/2025-01-09-bambulab-p1s-combo-second-printer/01.jpg
 share-img: /assets/posts/2025-01-09-bambulab-p1s-combo-second-printer/01.jpg
 ---

@@ -5,6 +5,7 @@ subtitle: new printer
 tags:
 - '2024'
 - 3d printer
+cover-img: /assets/posts/2024-11-07-bambulab-p1s-combo-new-printer/05.jpg
 thumbnail-img: /assets/posts/2024-11-07-bambulab-p1s-combo-new-printer/09.jpg
 share-img: /assets/posts/2024-11-07-bambulab-p1s-combo-new-printer/09.jpg
 ---

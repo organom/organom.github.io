@@ -5,6 +5,7 @@ subtitle: upgrade
 tags:
 - '2025'
 - 3d printer
+cover-img: /assets/posts/2025-02-10-filament-dry-boxes-upgrade/01.jpg
 thumbnail-img: /assets/posts/2025-02-10-filament-dry-boxes-upgrade/03.jpg
 share-img: /assets/posts/2025-02-10-filament-dry-boxes-upgrade/03.jpg
 ---

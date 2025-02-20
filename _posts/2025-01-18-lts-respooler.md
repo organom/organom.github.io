@@ -23,27 +23,29 @@ Rather than waiting, I decided to adapt the project using components I already h
 
 ## Components Used
 To make it work, I repurposed the following electronics:
-    * Arduino Pro Mini Clone
-    * Nema 17HS5413 1.8' 1.3A Stepper Motor
-    * DRV8825 Stepper Driver + capacitor
-    * LEDs + resistors
-    * Button
-    * EndStop
-    * 4mm sphere
-    * MP1584EN Mini DC-DC Step Down (https://www.amazon.es/-/pt/dp/B0CGVMRQXB), since the LM2596S I had lying around were quite large and would not fit
-    * connectors and wires
+* Arduino Pro Mini Clone
+* Nema 17HS5413 1.8' 1.3A Stepper Motor
+* DRV8825 Stepper Driver + capacitor
+* LEDs + resistors
+* Button
+* EndStop
+* 4mm sphere
+* [MP1584EN Mini DC-DC Step Down](https://www.amazon.es/-/pt/dp/B0CGVMRQXB), since the LM2596S I had lying around were quite large and would not fit
+* connectors and wires
 
 ## Challenges & Lessons Learned
 
 One of the biggest hurdles was understanding how to properly connect the stepper driver and control the motor using the Arduino. These resources were particularly helpful:
-* connecting the Arduino Pro Mini to the computer: [https://www.instructables.com/Using-Arduino-Pro-Mini/](https://www.instructables.com/Using-Arduino-Pro-Mini/) 
-* understanding the stepper driver: [https://www.youtube.com/watch?v=J-8_txDnS3w](https://www.youtube.com/watch?v=J-8_txDnS3w)
-* coding using `AccelStepper` library: [https://www.diyengineers.com/2024/11/11/drv8825-stepper-motor-driver-complete-guide/](https://www.diyengineers.com/2024/11/11/drv8825-stepper-motor-driver-complete-guide/)
+* connecting the Arduino Pro Mini to the computer: [Instructables Page](https://www.instructables.com/Using-Arduino-Pro-Mini/) 
+* understanding the stepper driver: [YouTube Video](https://www.youtube.com/watch?v=J-8_txDnS3w)
+* coding using `AccelStepper` library: [Complete Guide](https://www.diyengineers.com/2024/11/11/drv8825-stepper-motor-driver-complete-guide/)
 
 The `AccelStepper` library simplified motor control and made fine-tuning much easier. Despite the learning curve, seeing everything come together in the end was incredibly rewarding.
 
 ## The Frustrating Part…
-Unfortunately, due to licensing restrictions on the original project, I can’t publicly share my modified version. It’s disappointing not to be able to contribute back to the community, but those are the rules. 😞
+Unfortunately, due to licensing restrictions on the original project, I can’t publicly share my modified version. 
+
+It’s disappointing not to be able to contribute back to the community, but those are the rules. 😞
 
 
 {% include image-gallery.html folder="/assets/posts/2025-01-18-lts-respooler" %}

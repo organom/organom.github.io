@@ -17,6 +17,7 @@ For this, I picked up a set of [STANDERS 360º 35mm 30kg](https://www.leroymerli
 To attach them without damaging my IKEA Samla 22L boxes, I remixed an existing 3D model ([view it here](https://makerworld.com/en/models/1097216)) to fit the wheels and secured them with double-sided tape for a firm hold.
 
 The design is freely available on Tinkercad: [https://www.tinkercad.com/things/5Az2rYK8vI6-ikea-samla-22l-wheels](https://www.tinkercad.com/things/5Az2rYK8vI6-ikea-samla-22l-wheels)
+
 The original Samla feet model I used for the remix was: [https://makerworld.com/models/529076](https://makerworld.com/models/529076)
 
 

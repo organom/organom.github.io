@@ -5,6 +5,7 @@ subtitle: water cooler
 tags:
 - '2024'
 - hardware
+cover-img: /assets/posts/2024-08-06-desktop-pc-water-cooler/01.jpg
 thumbnail-img: /assets/posts/2024-08-06-desktop-pc-water-cooler/03.jpg
 share-img: /assets/posts/2024-08-06-desktop-pc-water-cooler/03.jpg
 ---

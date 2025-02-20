@@ -1,15 +1,17 @@
 ---
 layout: page
 title: About me
+cover-img: /assets/posts/2025-02-10-filament-dry-boxes-upgrade/01.jpg
 ---
 
-My name is Ricardo Gomes (aka organom).
+Hi, I’m Ricardo Gomes (aka organom).
 
-I love technology, researching, making prototypes and sharing ideas. I characterize myself as being friendly, passionate, spontaneous, dynamic, organized and a hardworking person that always strives for excellence.
+I'm passionate about technology, research, prototyping, and sharing ideas. I see myself as friendly, dynamic, and highly motivated—always striving for excellence in everything I do.
 
-Creating something new, specially if it can help someone, is my main motivation.
+What drives me the most is creating something new, especially when it has the potential to help others.
 
-On my free time I enjoy building things (DIY), researching into new technologies, sharing knowledge and playing online games. I tend to be quite spontaneous about it and my attention is spread across a wide range of interests: Quadcopters, VR, 3d printing, IoT, Electronics, etc.
+In my free time, I enjoy diving into DIY projects, exploring emerging technologies, and sharing knowledge. My interests span by a wide range of fields, including quadcopters, VR, 3D printing, IoT, and electronics.
+I tend to be quite spontaneous about it, often jumping between different projects as inspiration strikes.
 
 Joining hackathons & maker/DIY events is also something I enjoy doing from time to time
 

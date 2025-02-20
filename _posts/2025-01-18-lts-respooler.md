@@ -44,4 +44,4 @@ The `AccelStepper` library simplified motor control and made fine-tuning much ea
 Unfortunately, due to licensing restrictions on the original project, I can’t publicly share my modified version. It’s disappointing not to be able to contribute back to the community, but those are the rules. 😞
 
 
-{% include image-gallery.html folder="/assets/posts//assets/posts/2025-01-18-lts-respooler" %}
+{% include image-gallery.html folder="/assets/posts/2025-01-18-lts-respooler" %}

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: anycubic delta plus
-subtitle: update
+subtitle: upgrade
 tags:
 - '2024'
 - 3d printer
-cover-img: /assets/posts/2024-08-11-anycubic-delta-plus-update/07.jpg
-thumbnail-img: /assets/posts/2024-08-11-anycubic-delta-plus-update/10.jpg
-share-img: /assets/posts/2024-08-11-anycubic-delta-plus-update/10.jpg
+cover-img: /assets/posts/2024-08-11-anycubic-delta-plus-upgrade/07.jpg
+thumbnail-img: /assets/posts/2024-08-11-anycubic-delta-plus-upgrade/10.jpg
+share-img: /assets/posts/2024-08-11-anycubic-delta-plus-upgrade/10.jpg
 gh-repo: organom/Marlin-2.1.x-AnycubicKosselLinearPlus
 gh-badge: [star, fork, follow]
 ---
@@ -22,5 +22,5 @@ Additionally, I upgraded to a Raspberry Pi Zero W 2 and printed some fresh, shin
 
 In the near future, I might also swap out the nozzle for an old E3D V6 I have lying around from the UltiCampy printer that was never finished as well as add a fillament sensor in order to pause the prints when the fillament is out.
 
-{% include image-gallery.html folder="/assets/posts/2024-08-11-anycubic-delta-plus-update" %}
+{% include image-gallery.html folder="/assets/posts/2024-08-11-anycubic-delta-plus-upgrade" %}
 

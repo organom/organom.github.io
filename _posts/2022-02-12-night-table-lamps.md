@@ -11,6 +11,7 @@ share-img: /assets/posts/2022-02-12-night-table-lamps/03.jpg
 ---
 
 Last week, I decided to paint my bed lamps white to prevent mold from forming on the untreated wood. 
-I’ve realized that I need to create some kind of enclosed space for projects like this, something to keep the process clean and controlled.
+
+I realized that I need to create some kind of enclosed space for projects like this, something to keep the process clean and controlled.
 
 {% include image-gallery.html folder="/assets/posts/2022-02-12-night-table-lamps" %}

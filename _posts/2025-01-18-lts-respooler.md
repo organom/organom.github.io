@@ -4,6 +4,8 @@ title: lts respooler
 tags:
 - '2025'
 - 3d printer
+- electronics
+- arduino
 cover-img: /assets/posts/2025-01-18-lts-respooler/01.jpg
 thumbnail-img: /assets/posts/2025-01-18-lts-respooler/11.jpg
 share-img: /assets/posts/2025-01-18-lts-respooler/11.jpg

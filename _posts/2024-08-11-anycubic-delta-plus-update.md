@@ -20,7 +20,7 @@ While I was at it, I installed a cooling tunnel for the stepper controllers and 
 
 Additionally, I upgraded to a Raspberry Pi Zero W 2 and printed some fresh, shiny 3D parts on the Kobra 3 to complete the setup.
 
-In the near future, I might also swap out the nozzle for an old E3D V6 I have lying around from the UltiCampy printer that was never finished.
+In the near future, I might also swap out the nozzle for an old E3D V6 I have lying around from the UltiCampy printer that was never finished as well as add a fillament sensor in order to pause the prints when the fillament is out.
 
 {% include image-gallery.html folder="/assets/posts/2024-08-11-anycubic-delta-plus-update" %}
 

@@ -10,7 +10,7 @@ thumbnail-img: /assets/posts/2025-05-10-rewire-network/02.jpg
 share-img: /assets/posts/2025-05-10-rewire-network/02.jpg
 ---
 
-I finally took the time to rewire my network rack, and it turned out to be one of those upgrades that makes a *huge* difference in daily usability. I swapped out my old, custom-made Ethernet cables for [UniFi Patch Cables – Ubiquiti Store](https://eu.store.ui.com/eu/en/category/accessories-cables-dacs/collections/accessories-pro-patch-cables/products/unifi-ethernet-patch-cable-with-bendable-booted-rj45), and honestly, I’m never going back.
+I finally took the time to rewire my network rack, and it turned out to be one of those upgrades that makes a *huge* difference in daily usability. I swapped out my old, custom-made Ethernet cables for [UniFi Patch Cables](https://eu.store.ui.com/eu/en/category/accessories-cables-dacs/collections/accessories-pro-patch-cables/products/unifi-ethernet-patch-cable-with-bendable-booted-rj45), and honestly, I’m never going back.
 
 {% include image-gallery.html folder="/assets/posts/2025-05-10-rewire-network" %}
 

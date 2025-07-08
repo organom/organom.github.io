@@ -5,12 +5,12 @@ subtitle: 3d printing
 tags:
 - '2025'
 - 3d printer
-cover-img: /assets/posts/2025-04-13-cool-prints/02.jpg
-thumbnail-img: /assets/posts/2025-04-13-cool-prints/02.jpg
-share-img: /assets/posts/2025-04-13-cool-prints/02.jpg
+cover-img: /assets/posts/2025-04-13-cool-prints/01/02.jpg
+thumbnail-img: /assets/posts/2025-04-13-cool-prints/01/02.jpg
+share-img: /assets/posts/2025-04-13-cool-prints/01/02.jpg
 ---
 
-Hey everyone! Just wanted to share a few fun and super useful 3D prints I’ve made recently. I've been spending a bit more time with my printer lately, and it's always satisfying to create something that’s either handy or just plain fun. Here are a few of my recent favorites:
+Just wanted to share a few fun and super useful 3D prints I’ve made recently. I've been spending a bit more time with my printer lately, and it's always satisfying to create something that’s either handy or just plain fun. Here are a few of my recent favorites:
 
 ---
 
@@ -30,14 +30,6 @@ Finally—my folding ruler has a proper home! This Gridfinity-compatible holder 
 
 ---
 
-### 🦕 [Cute Knitted Stegosaur](https://makerworld.com/en/models/1075640-cute-knitted-stegosaur)
-
-Ok, this one is just for fun. It looks like it’s been hand-knitted, but it’s all printed in PLA! Super fun little dinosaur that’s earned a spot on my shelf—and also a few compliments from friends. If you’ve got kids or just want something whimsical, give this one a go. The author has a full set of dinosaurs and other animals
-
-{% include image-gallery.html folder="/assets/posts/2025-04-13-cool-prints/03" %}
-
----
-
 ### 🔩 [SuperSerter – Threaded Insert Press](https://makerworld.com/en/models/1306631-superserter-100-printable-threaded-insert-press)
 
 This is a game-changer for working with threaded inserts. It gives you solid control and even pressure—no more crooked or half-sunk inserts. It’s a fully printable tool that just works. If you do any kind of functional printing, this is a must-have.
@@ -54,6 +46,15 @@ Last but not least, I finally gave my Steam Controller a proper home. This dock 
 
 ---
 
+### 🦕 [Cute Knitted Dinosaur](https://makerworld.com/en/models/1001454-cute-knitted-dinosaur)
+
+Ok, this one is just for fun. It looks like it’s been hand-knitted, but it’s all printed in PLA! Super fun little dinosaur that’s earned a spot on my shelf—and also a few compliments from friends. If you’ve got kids or just want something whimsical, give this one a go. The author has a full set of dinosaurs and other animals to choose from.
+
+{% include image-gallery.html folder="/assets/posts/2025-04-13-cool-prints/03" %}
+
+---
+
 That’s it for now! 
+
 If you’ve printed any of these, let me know how they turned out for you—or if you’ve got recommendations for other cool models, I’m always on the lookout. Happy printing!
 

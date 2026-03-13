@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Inline Smart Power Cable
-subtitle: Non-intrusive smart power control for 3D printers
+title: inline smart power cable
+subtitle: non-intrusive smart power control for 3d printers
 tags:
 - '2025'
 - 3d printer
@@ -18,7 +18,7 @@ Since it uses the same connector found on PCs, monitors, and most electronics, i
 
 ---
 
-### Parts List
+### parts list
 
 - **[Shelly 1PM Gen3](https://www.shelly.com/products/shelly-1pm-gen3)** — 16A Wi-Fi relay with power metering
 - **[3D Printed Enclosure](https://www.thingiverse.com/thing:6876809)** — Fits Shelly 1/1PM Gen2-Gen3, holds 3 WAGO clamps. A [Mini series version](https://makerworld.com/en/models/1017438-housing-for-the-shelly-mini-series) is also available.
@@ -29,7 +29,7 @@ Since it uses the same connector found on PCs, monitors, and most electronics, i
 
 ---
 
-### The Build
+### the build
 
 Cut a standard IEC C14-to-C13 cable in half, route both ends through the enclosure, and wire through the Shelly using WAGO connectors. Live goes through the Shelly's **L** and **O** terminals; Neutral and Earth pass straight through via WAGO connectors.
 

@@ -12,7 +12,9 @@ thumbnail-img: /assets/posts/2025-10-13-inline-smart-power-cable/04.jpg
 share-img: /assets/posts/2025-10-13-inline-smart-power-cable/04.jpg
 ---
 
-I wanted to remotely turn my Bambu Lab P1S printers on and off via Wi-Fi and track energy usage — without opening or modifying the printers. The solution: a [Shelly 1PM Gen3](https://www.shelly.com/products/shelly-1pm-gen3) wired inline into a standard IEC C14/C13 power cable, housed in a [3D printed enclosure](https://www.thingiverse.com/thing:6876809).
+I wanted to remotely turn my Bambu Lab P1S printers on and off via Wi-Fi and track energy usage — without opening or modifying the printers. 
+
+The solution: a [Shelly 1PM Gen3](https://www.shelly.com/products/shelly-1pm-gen3) wired inline into a standard IEC C14/C13 power cable, housed in a [3D printed enclosure](https://www.thingiverse.com/thing:6876809).
 
 Since it uses the same connector found on PCs, monitors, and most electronics, it can be repurposed for any device.
 

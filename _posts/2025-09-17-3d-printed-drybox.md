@@ -11,7 +11,8 @@ thumbnail-img: /assets/posts/2025-09-17-3d-printed-drybox/01.jpg
 share-img: /assets/posts/2025-09-17-3d-printed-drybox/01.jpg
 ---
 
-Some filaments like TPU, Nylon, and PETG absorb moisture quickly and print poorly when wet. The [AMS](https://bambulab.com/en/ams) helps with regular PLA/PETG, but for specialty filaments fed through the external spool input, a dedicated drybox is the way to go.
+Some filaments like TPU, Nylon, and PETG absorb moisture quickly and print poorly when wet. 
+The [AMS](https://bambulab.com/en/ams) helps with regular PLA/PETG, but for specialty filaments fed through the external spool input, a dedicated drybox is the way to go.
 
 I printed the [Retracting Spool Holder](https://makerworld.com/en/models/1233835-retracting-spool-holder) — a compact, round enclosure that uses two 3D printed side plates, a cylindrical body, and snap clips to keep everything sealed. A PTFE tube routes the filament out to the printer, and a knurled knob secures the spool axle. I use it to store my TPU filament.
 

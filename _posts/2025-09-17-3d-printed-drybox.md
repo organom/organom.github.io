@@ -17,8 +17,6 @@ I printed the [Retracting Spool Holder](https://makerworld.com/en/models/1233835
 
 The base is a [custom mount](https://www.tinkercad.com/things/adbtM9jCk21-socket-for-retracting-spool-holder-for-ams-riser-v2) I designed based on the official base, adapted to fit the AMS riser v2.
 
----
-
 ### features
 
 - **Sealed enclosure** with silica gel desiccant to keep humidity low

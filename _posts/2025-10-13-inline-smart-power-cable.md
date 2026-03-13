@@ -16,8 +16,6 @@ I wanted to remotely turn my Bambu Lab P1S printers on and off via Wi-Fi and tra
 
 Since it uses the same connector found on PCs, monitors, and most electronics, it can be repurposed for any device.
 
----
-
 ### parts list
 
 - **[Shelly 1PM Gen3](https://www.shelly.com/products/shelly-1pm-gen3)** — 16A Wi-Fi relay with power metering
@@ -26,8 +24,6 @@ Since it uses the same connector found on PCs, monitors, and most electronics, i
 - **IEC C14 to C13 extension cable** — 10A 250V rated
 - **Heat-set brass inserts + M3 screws**
 - **Labels** for identification
-
----
 
 ### the build
 

@@ -7,9 +7,9 @@ tags:
 - 3d printer
 - multiboard
 - organization
-cover-img: /assets/posts/2026-02-14-multiboard-tool-wall/09.jpg
-thumbnail-img: /assets/posts/2026-02-14-multiboard-tool-wall/09.jpg
-share-img: /assets/posts/2026-02-14-multiboard-tool-wall/09.jpg
+cover-img: /assets/posts/2026-01-12-multiboard-tool-wall/09.jpg
+thumbnail-img: /assets/posts/2026-01-12-multiboard-tool-wall/09.jpg
+share-img: /assets/posts/2026-01-12-multiboard-tool-wall/09.jpg
 ---
 
 I was deep into [Gridfinity](https://gridfinity.xyz/) for a while. It made sense — I had drawers available and didn't want to commit to a permanent tool wall in the office that I might regret later. But as my tool collection grew, the drawers became multi-layered and finding anything quickly turned into a dig-through-everything situation.
@@ -37,6 +37,6 @@ Most tools sit on community-designed holders that snap into the Multiboard grid:
 
 Some others were adapted from existing models — may share those later.
 
-{% include image-gallery.html folder="/assets/posts/2026-02-14-multiboard-tool-wall" %}
+{% include image-gallery.html folder="/assets/posts/2026-01-12-multiboard-tool-wall" %}
 
 Everything is visible and accessible at a glance now. No more digging through stacked bins to find a caliper buried under three screwdrivers.

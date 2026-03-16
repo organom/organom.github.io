@@ -1,6 +1,6 @@
 ---
 layout: post
-title: imac 2013 retro gaming station with batocera
+title: imac retro gaming station with batocera
 subtitle: giving new life to a dusty imac as a retro gaming console
 tags:
 - '2026'

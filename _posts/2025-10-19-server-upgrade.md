@@ -15,7 +15,7 @@ My home [Unraid](https://unraid.net/) server was getting cramped and slow, mainl
 With even more coming up and the need to start using VMs alongside the docker containers, the old hardware just wasn't up to it.
 Time for a full platform swap — new motherboard, CPU, RAM, and PSU.
 
-### new hardware
+## new hardware
 
 - [Intel Core Ultra 7 265K](https://www.amazon.es/-/pt/dp/B0DFK2MH2D) — 20 cores (8P + 12E), up to 5.5 GHz
 - [ASUS Prime Z890M-Plus WiFi](https://www.amazon.es/-/pt/dp/B0DJDFDYSN) — mATX, DDR5, PCIe 5.0, WiFi 7
@@ -24,7 +24,7 @@ Time for a full platform swap — new motherboard, CPU, RAM, and PSU.
 - [Noctua NH-D9L](https://www.amazon.es/-/pt/dp/B00PIPCFX2) — compact dual-tower cooler, perfect for a rack case with limited clearance
 - [Arctic MX-6](https://www.amazon.es/-/pt/dp/B09VDL3CW6) thermal paste
 
-### reused hardware
+## reused hardware
 
 - [Inter-Tech 3U rack case](https://www.amazon.es/-/pt/dp/B00O20I9ES)
 - [MZHOU 6-Port PCIe SATA 3.0 Expansion Card](https://www.amazon.es/-/pt/dp/B097RBLM9G) (ASM1166, 6 Gbps)

@@ -15,4 +15,4 @@ I tend to be quite spontaneous about it, often jumping between different project
 
 Joining hackathons & maker/DIY events is also something I enjoy doing from time to time
 
-I keep track of my personal achievements in this page and my professional ones in LinkedIn.
+I keep track of my personal achievements in this page and my professional ones in [LinkedIn](https://linkedin.com/in/ricardocarneirogomes).

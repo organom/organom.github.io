@@ -24,7 +24,7 @@ The Navigation Controller uses a **LIS1442** (Sony P/N 4-180-962-01) — a 3.7V 
 
 The controller opens with a single small Phillips screw at the bottom. The two halves clip apart, exposing the PCB and battery. Disconnect the old battery, swap in the new one, and reassemble. Assemble carefully — the cables and plastic fittings are not very strong.
 
-{% include image-gallery.html folder="/assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/gallery" %}
+{% include image-gallery.html folder="/assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/01" %}
 
 Both controllers charged up and worked perfectly afterwards — the Sharp Shooter setup is finally complete.
 

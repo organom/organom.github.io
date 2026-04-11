@@ -7,14 +7,14 @@ tags:
 - ps3
 - repair
 - gaming
-cover-img: /assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/09.jpg
-thumbnail-img: /assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/09.jpg
-share-img: /assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/09.jpg
+cover-img: /assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/01/09.jpg
+thumbnail-img: /assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/01/09.jpg
+share-img: /assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/01/09.jpg
 ---
 
 To complete my PS3 Move dream setup, I picked up some parts from a local second hand store [CEX](https://pt.webuy.com/):
-* 2x [PlayStation Move Sharp Shooters](https://www.psdevwiki.com/ps3/Move_Sharp_Shooter) (CECHYA-ZRA1E) [📄](https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/accessories/ps3-accessories/cechya-zra1e-sharpshoote/CECHYA-ZRA1E%20Sharpshoote_IM$en.pdf)
-* 2x [PlayStation Move Navigation Controllers](https://www.psdevwiki.com/ps3/Move_Navigation_Controller) (CECH-ZCS1E) [📄](https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/accessories/ps3-accessories/cech-zcs1e-ps-move-nav/CECH-ZCS1E_PS%20Move%20Nav_IM$en.pdf)
+* 2x [PlayStation Move Sharp Shooters](https://www.psdevwiki.com/ps3/Move_Sharp_Shooter) (CECHYA-ZRA1E <a href="https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/accessories/ps3-accessories/cechya-zra1e-sharpshoote/CECHYA-ZRA1E%20Sharpshoote_IM$en.pdf" title="manual">📄</a> )
+* 2x [PlayStation Move Navigation Controllers](https://www.psdevwiki.com/ps3/Move_Navigation_Controller) (CECH-ZCS1E <a href="https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/accessories/ps3-accessories/cech-zcs1e-ps-move-nav/CECH-ZCS1E_PS%20Move%20Nav_IM$en.pdf" title="manual">📄</a> )
 
 The Navigation Controllers paired and worked fine while on usb cable, but their batteries were dead — they wouldn't charge or hold any charge.
 
@@ -24,7 +24,7 @@ The Navigation Controller uses a **LIS1442** (Sony P/N 4-180-962-01) — a 3.7V 
 
 The controller opens with a single small Phillips screw at the bottom. The two halves clip apart, exposing the PCB and battery. Disconnect the old battery, swap in the new one, and reassemble. Assemble carefully — the cables and plastic fittings are not very strong.
 
-{% include image-gallery.html folder="/assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement" %}
+{% include image-gallery.html folder="/assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/gallery" %}
 
 Both controllers charged up and worked perfectly afterwards — the Sharp Shooter setup is finally complete.
 
@@ -32,4 +32,4 @@ Both controllers charged up and worked perfectly afterwards — the Sharp Shoote
 
 Before finding the right ones, I tried some replacements on Amazon with the same LIS1442 reference — they don't fit. The cells are slightly too large for the battery compartment, despite having the correct part number.
 
-<img src="/assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/extra/Some_batteries_dont_fit-1.jpg" width="45%" style="margin-right:2%"> <img src="/assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/extra/Some_batteries_dont_fit-2.jpg" width="45%">
+<img src="/assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/02/Some_batteries_dont_fit-1.jpg" width="45%" style="margin-right:2%"> <img src="/assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/02/Some_batteries_dont_fit-2.jpg" width="45%">

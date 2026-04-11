@@ -12,7 +12,11 @@ thumbnail-img: /assets/posts/2026-04-11-ps3-navigation-controller-battery-replac
 share-img: /assets/posts/2026-04-11-ps3-navigation-controller-battery-replacement/09.jpg
 ---
 
-To complete my PS3 Move dream setup, I picked up 2 [PlayStation Move Sharp Shooters](https://www.psdevwiki.com/ps3/Move_Sharp_Shooter) (CECHYA-ZRA1E) ([manual](https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/accessories/ps3-accessories/cechya-zra1e-sharpshoote/CECHYA-ZRA1E%20Sharpshoote_IM$en.pdf)) and 2 [Move Navigation Controllers](https://www.psdevwiki.com/ps3/Move_Navigation_Controller) (CECH-ZCS1E) from a local [CEX](https://pt.webuy.com/) store (second hand parts). The Navigation Controllers paired and worked fine while on usb cable, but their batteries were dead — they wouldn't charge or hold any charge.
+To complete my PS3 Move dream setup, I picked up some cheap parts from a local second hand store [CEX](https://pt.webuy.com/):
+* 2x [PlayStation Move Sharp Shooters](https://www.psdevwiki.com/ps3/Move_Sharp_Shooter) (CECHYA-ZRA1E) ([manual](https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/accessories/ps3-accessories/cechya-zra1e-sharpshoote/CECHYA-ZRA1E%20Sharpshoote_IM$en.pdf))
+* 2x [Move Navigation Controllers](https://www.psdevwiki.com/ps3/Move_Navigation_Controller) (CECH-ZCS1E)
+
+The Navigation Controllers paired and worked fine while on usb cable, but their batteries were dead — they wouldn't charge or hold any charge.
 
 ## the battery replacement
 

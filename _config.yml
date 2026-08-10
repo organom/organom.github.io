@@ -60,11 +60,11 @@ social-network-links:
   linkedin: ricardocarneirogomes
 #  xing: yourname
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: 0rganom
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
+  steam: organom
+  twitch: rh_organom
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
@@ -75,7 +75,7 @@ social-network-links:
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
-#  gitlab: yourname
+  gitlab: organom
 #  itchio: yourname
   untappd: organom
   makerworld: organom

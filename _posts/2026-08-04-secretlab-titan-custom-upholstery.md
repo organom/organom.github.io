@@ -6,9 +6,9 @@ tags:
 - '2026'
 - office
 - repair
-cover-img: /assets/posts/2026-08-04-secretlab-titan-custom-upholstery/01/07.jpg
-thumbnail-img: /assets/posts/2026-08-04-secretlab-titan-custom-upholstery/01/07.jpg
-share-img: /assets/posts/2026-08-04-secretlab-titan-custom-upholstery/01/07.jpg
+cover-img: /assets/posts/2026-08-04-secretlab-titan-custom-upholstery/01/03.jpg
+thumbnail-img: /assets/posts/2026-08-04-secretlab-titan-custom-upholstery/01/03.jpg
+share-img: /assets/posts/2026-08-04-secretlab-titan-custom-upholstery/01/03.jpg
 ---
 
 This is a continuation of the [secretlab titan chair renewal](/2026-02-21-secretlab-titan-renewal/). After swapping in the new [Secretlab TITAN](https://secretlab.co/pages/titan-evo-2022-series) upholstery, I was left holding the old backrest and seat pans. The foam and shells were perfectly fine — only the leatherette had failed — and throwing them out felt wrong.
